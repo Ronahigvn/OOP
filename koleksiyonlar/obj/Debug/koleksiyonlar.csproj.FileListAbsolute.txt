@@ -1,0 +1,8 @@
+C:\Users\GUVEN\source\repos\OOP1\koleksiyonlar\bin\Debug\koleksiyonlar.exe.config
+C:\Users\GUVEN\source\repos\OOP1\koleksiyonlar\bin\Debug\koleksiyonlar.exe
+C:\Users\GUVEN\source\repos\OOP1\koleksiyonlar\bin\Debug\koleksiyonlar.pdb
+C:\Users\GUVEN\source\repos\OOP1\koleksiyonlar\obj\Debug\koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\GUVEN\source\repos\OOP1\koleksiyonlar\obj\Debug\koleksiyonlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\GUVEN\source\repos\OOP1\koleksiyonlar\obj\Debug\koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\GUVEN\source\repos\OOP1\koleksiyonlar\obj\Debug\koleksiyonlar.exe
+C:\Users\GUVEN\source\repos\OOP1\koleksiyonlar\obj\Debug\koleksiyonlar.pdb
